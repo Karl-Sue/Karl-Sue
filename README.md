@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Karl 👋
 
-<!--
-**Karl-Sue/Karl-Sue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at the University of Western Australia (UWA)  
+☁️ AWS Certified Developer – Associate  
+🔧 Aspiring DevOps Engineer  
+💻 Currently focusing on AWS, and CI/CD  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: Golang, Python  
+- **Cloud**: AWS (Lambda, DynamoDB, IAM, CloudWatch)  
+- **DevOps**: GitHub Actions (learning), Docker, Terraform (learning)
+
+---
+
+## 🚀 What I'm Working On
+- Building cloud-native services
+- Practicing **CI/CD pipelines** with GitHub Actions
+- Learning DevOps fundamentals (automation, monitoring, reliability)
+
+---
+
+## 📌 Goals
+- Land my **first DevOps / cloud-focused software role**
+- Deepen my understanding of **operating systems fundamentals** (processes, memory, garbage collection, performance bottlenecks)
+- Build strong hands-on experience with **AWS** and cloud system operations
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/tuan-khanh-hoang-1a8a9b275
+
