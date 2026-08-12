@@ -11,8 +11,8 @@
   <a href="https://github.com/Karl-Sue">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karl-Sue&theme=calm&layout=compact&hide_border=false" alt="Top Languages" />
   </a>
-  <a href="https://wakatime.com/13c6bc03-96d2-431c-b64b-a1ed04f21974">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=13c6bc03-96d2-431c-b64b-a1ed04f21974&theme=calm&layout=compact" alt="WakaTime Stats" />
+  <a href="https://wakatime.com/@13c6bc03-96d2-431c-b64b-a1ed04f21974">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=@13c6bc03-96d2-431c-b64b-a1ed04f21974&theme=calm&layout=compact" alt="WakaTime Stats" />
   </a>
 
 </div>
