@@ -5,6 +5,7 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -14,9 +15,19 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_STYLE: "for-the-badge"
-          BAR_STYLE: "svg"
-          BAR_COLOR: ""
-          BAR_TRACK_COLOR: ""
-          BAR_RADIUS: "4"
+          
+          # Visual & Bar Settings (Fixes text collapse and SVG rendering issues)
+          BADGE_STYLE: "flat"
+          BAR_STYLE: "solid"
           SYMBOL_VERSION: "3"
+          
+          # Clean Display Controls
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
+          SHOW_LINES_OF_CODE: "False"
