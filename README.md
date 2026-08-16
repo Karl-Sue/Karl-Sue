@@ -73,4 +73,111 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2034%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 50.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 451 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                488 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌆 Daytime                2043 commits        ████████████░░░░░░░░░░░░░   49.36 % 
+🌃 Evening                1348 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌙 Night                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Tuesday                  864 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Wednesday                738 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 666 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Friday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Saturday                 646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Sunday                   389 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Perth
+
+💬 Programming Languages: 
+TypeScript               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
+Python                   2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+
+🔥 Editors: 
+Antigravity IDE          6 hrs 35 mins       ████████████████████████░   96.66 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+
+🐱‍💻 Projects: 
+Karl-Sue.github.io       4 hrs 44 mins       █████████████████░░░░░░░░   69.59 % 
+url-magic                1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Assignment_for_Uni       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+asp-dot-net-practice     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+rate-pulse               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+💻 Operating System: 
+Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 42 mins (83.55%)
+
+✍️ 303 lines written by AI, 327 lines written by hand (48.1% AI-written)
+
+🔤 82,983 Input Tokens, 198 Output Tokens
+
+💵 $0.25 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 116 AI Prompts
+
+Gemini                   382 lines           █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 48.1% of written lines came from AI
+📝 Concise Prompter — average 295 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 56.59% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/08/2026 03:02:58 UTC
 <!--END_SECTION:waka-->
