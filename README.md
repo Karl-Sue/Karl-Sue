@@ -52,65 +52,41 @@
 
 ---
 
-### 📊 GitHub Activity & Development Time
+### 📊 GitHub Activity & Overview
 
 <div align="center">
 
-  <!-- Main GitHub Stats Card -->
-  <a href="https://github.com/Karl-Sue">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=Karl-Sue&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Karl's%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Karl's GitHub Stats" />
   </a>
 
   <br /><br />
 
-  <!-- Side-by-Side: Top Languages & WakaTime -->
   <a href="https://github.com/Karl-Sue">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Karl-Sue&theme=calm&layout=compact&hide_border=false" alt="Top Languages" />
   </a>
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2034%20mins-blue?style=flat)
+</div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
+---
 
-**🐱 My GitHub Data** 
+### ⏱️ Automated WakaTime Development Metrics
 
-> 📦 50.8 kB Used in GitHub's Storage 
- > 
-> 🏆 451 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<!--START_SECTION:waka-->
+<div align="center">
 
-```text
-🌞 Morning                486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-🌆 Daytime                2043 commits        ████████████░░░░░░░░░░░░░   49.38 % 
-🌃 Evening                1348 commits        ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌙 Night                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+![Code Time](https://img.shields.io/badge/Code%20Time-34%20hrs%2033%20mins-238636?style=flat&logo=wakatime&logoColor=white)
+![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2034%20mins-8957e5?style=flat&logo=openai&logoColor=white)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-38-0969da?style=flat&logo=github&logoColor=white)
+
+</div>
+
+<br />
+
+#### 📈 Weekly Development Snapshot
 
 ```text
-Monday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Tuesday                  864 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Wednesday                738 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Thursday                 666 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Friday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Saturday                 646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Sunday                   387 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Perth
+🕑 Time Zone: Australia/Perth
 
 💬 Programming Languages: 
 TypeScript               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
@@ -131,50 +107,4 @@ asp-dot-net-practice     3 mins              ░░░░░░░░░░░�
 rate-pulse               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 42 mins (83.55%)
-
-✍️ 303 lines written by AI, 327 lines written by hand (48.1% AI-written)
-
-🔤 82,983 Input Tokens, 198 Output Tokens
-
-💵 $0.25 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 116 AI Prompts
-
-Gemini                   382 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.1% of written lines came from AI
-📝 Concise Prompter — average 295 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 56.59% of changed lines were hand-edited
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
-
-
- Last Updated on 16/08/2026 02:49:10 UTC
-<!--END_SECTION:waka-->
-
-</div>
+Windows                  6 hrs 49 mins       █████████████████████████   100.00 %
