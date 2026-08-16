@@ -70,41 +70,7 @@
 
 ---
 
-### ⏱️ Automated WakaTime Development Metrics
+### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-<div align="center">
-
-![Code Time](https://img.shields.io/badge/Code%20Time-34%20hrs%2033%20mins-238636?style=flat&logo=wakatime&logoColor=white)
-![AI Code Time](https://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2034%20mins-8957e5?style=flat&logo=openai&logoColor=white)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-38-0969da?style=flat&logo=github&logoColor=white)
-
-</div>
-
-<br />
-
-#### 📈 Weekly Development Snapshot
-
-```text
-🕑 Time Zone: Australia/Perth
-
-💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
-Python                   2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-
-🔥 Editors: 
-Antigravity IDE          6 hrs 35 mins       ████████████████████████░   96.66 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-
-🐱‍💻 Projects: 
-Karl-Sue.github.io       4 hrs 44 mins       █████████████████░░░░░░░░   69.59 % 
-url-magic                1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-Assignment_for_Uni       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-asp-dot-net-practice     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-rate-pulse               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-💻 Operating System: 
-Windows                  6 hrs 49 mins       █████████████████████████   100.00 %
+<!--END_SECTION:waka-->
