@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue?style=flat)
 
@@ -118,48 +118,48 @@ Sunday                   397 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
-Python                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TypeScript               3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
+Python                   3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Bash                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 59 mins       ████████████████████████░   96.85 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Antigravity IDE          8 hrs 57 mins       ████████████████████████░   97.50 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🐱‍💻 Projects: 
-Karl-Sue.github.io       5 hrs               █████████████████░░░░░░░░   69.36 % 
-url-magic                1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Karl-Sue                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Assignment_for_Uni       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-asp-dot-net-practice     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Karl-Sue.github.io       5 hrs               ██████████████░░░░░░░░░░░   54.58 % 
+tlg-agent                2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+url-magic                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Karl-Sue                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Assignment_for_Uni       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 21 mins (74.2%)
+⏱ AI Coding Time: 6 hrs 45 mins (73.63%)
 
-✍️ 300 lines written by AI, 482 lines written by hand (38.36% AI-written)
+✍️ 428 lines written by AI, 600 lines written by hand (41.63% AI-written)
 
 🔤 82,983 Input Tokens, 198 Output Tokens
 
 💵 $0.25 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 110 AI Prompts
+🧠 12 AI Sessions, 139 AI Prompts
 
-Gemini                   350 lines           █████████████████████████   100.00 % 
+Gemini                   498 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.36% of written lines came from AI
-📝 Concise Prompter — average 296 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 65.92% of changed lines were hand-edited
+⚖️ Balanced with AI — 41.63% of written lines came from AI
+📝 Concise Prompter — average 230 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 61.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 16:21:13 UTC
+ Last Updated on 17/08/2026 18:27:42 UTC
 <!--END_SECTION:waka-->
