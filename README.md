@@ -91,79 +91,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-🌆 Daytime                2054 commits        ████████████░░░░░░░░░░░░░   49.28 % 
-🌃 Evening                1363 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-🌙 Night                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Tuesday                  880 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Wednesday                738 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Thursday                 669 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Friday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Saturday                 646 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Perth
-
-💬 Programming Languages: 
-Python                   5 hrs 38 mins       █████████████░░░░░░░░░░░░   50.24 % 
-Markdown                 2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-TypeScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-
-🔥 Editors: 
-Antigravity IDE          10 hrs 54 mins      ████████████████████████░   97.13 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-🐱‍💻 Projects: 
-tlg-agent                8 hrs 7 mins        ██████████████████░░░░░░░   72.36 % 
-Karl-Sue.github.io       2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Karl-Sue                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Terminal                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-💻 Operating System: 
-Windows                  10 hrs 54 mins      ████████████████████████░   97.22 % 
-WSL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 38 mins (59.19%)
-
-✍️ 281 lines written by AI, 487 lines written by hand (36.59% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 94 AI Prompts
-
-Gemini                   378 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.59% of written lines came from AI
-📝 Concise Prompter — average 190 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 81.88% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -181,5 +108,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 16:24:43 UTC
+ Last Updated on 21/08/2026 18:27:20 UTC
 <!--END_SECTION:waka-->
