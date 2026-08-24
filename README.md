@@ -118,50 +118,48 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   7 hrs 48 mins       ██████████████████░░░░░░░   71.55 % 
-Markdown                 2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Python                   5 hrs 55 mins       █████████████████░░░░░░░░   69.91 % 
+Markdown                 1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 35 mins      ████████████████████████░   97.12 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Antigravity IDE          8 hrs 10 mins       ████████████████████████░   96.32 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-tlg-agent                8 hrs 29 mins       ███████████████████░░░░░░   77.83 % 
-url-magic                2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Terminal                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-tlg-bot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+tlg-agent                6 hrs 4 mins        ██████████████████░░░░░░░   71.52 % 
+url-magic                2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Terminal                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  10 hrs 35 mins      ████████████████████████░   97.14 % 
-WSL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Windows                  8 hrs 10 mins       ████████████████████████░   96.32 % 
+WSL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (52.72%)
+⏱ AI Coding Time: 3 hrs 53 mins (45.76%)
 
-✍️ 206 lines written by AI, 329 lines written by hand (38.5% AI-written)
+✍️ 70 lines written by AI, 211 lines written by hand (24.91% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 99 AI Prompts
+🧠 4 AI Sessions, 54 AI Prompts
 
-Gemini                   274 lines           █████████████████████████   100.00 % 
+Gemini                   116 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.5% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🔍 Hands-On Reviewer — 84.55% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 24.91% of written lines came from AI
+📝 Concise Prompter — average 213 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 92.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -181,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 16:29:00 UTC
+ Last Updated on 24/08/2026 18:30:16 UTC
 <!--END_SECTION:waka-->
