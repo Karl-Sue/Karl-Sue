@@ -118,34 +118,29 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   4 hrs 4 mins        █████████████████░░░░░░░░   68.83 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   3 hrs 45 mins       ██████████████████░░░░░░░   71.02 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 36 mins       ████████████████████████░   94.73 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Antigravity IDE          5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                3 hrs 16 mins       ██████████████░░░░░░░░░░░   55.43 % 
-tlg-agent                2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.30 % 
-Terminal                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+url-magic                3 hrs 16 mins       ████████████████░░░░░░░░░   62.12 % 
+tlg-agent                2 hrs               █████████░░░░░░░░░░░░░░░░   37.88 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       ████████████████████████░   94.73 % 
-WSL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (43.22%)
+⏱ AI Coding Time: 2 hrs 33 mins (48.43%)
 
-✍️ 2 lines written by AI, 91 lines written by hand (2.15% AI-written)
+✍️ 2 lines written by AI, 90 lines written by hand (2.17% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -156,10 +151,10 @@ WSL                      18 mins             █░░░░░░░░░░�
 Gemini                   41 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.15% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 2.17% of written lines came from AI
 📝 Concise Prompter — average 176 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.31% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +174,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 16:45:50 UTC
+ Last Updated on 26/08/2026 19:43:15 UTC
 <!--END_SECTION:waka-->
