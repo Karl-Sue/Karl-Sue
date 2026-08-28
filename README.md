@@ -118,43 +118,41 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   3 hrs 45 mins       ██████████████████░░░░░░░   71.02 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   2 hrs 49 mins       ██████████████████░░░░░░░   70.20 % 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 16 mins       █████████████████████████   100.00 % 
+Antigravity IDE          4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                3 hrs 16 mins       ████████████████░░░░░░░░░   62.12 % 
-tlg-agent                2 hrs               █████████░░░░░░░░░░░░░░░░   37.88 % 
+url-magic                3 hrs 18 mins       █████████████████████░░░░   82.24 % 
+tlg-agent                42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (48.43%)
+⏱ AI Coding Time: 2 hrs 27 mins (61.26%)
 
-✍️ 2 lines written by AI, 90 lines written by hand (2.17% AI-written)
+✍️ 0 lines written by AI, 80 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 58 AI Prompts
-
-Gemini                   41 lines            █████████████████████████   100.00 % 
+🧠 4 AI Sessions, 70 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.17% of written lines came from AI
-📝 Concise Prompter — average 176 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.29% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 158 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -174,5 +172,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 17:12:01 UTC
+ Last Updated on 28/08/2026 01:58:59 UTC
 <!--END_SECTION:waka-->
