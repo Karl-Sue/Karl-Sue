@@ -118,40 +118,39 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   1 hr 23 mins        ██████████████░░░░░░░░░░░   55.12 % 
-Other                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   39 mins             ██████████░░░░░░░░░░░░░░░   41.92 % 
+Other                    33 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
+Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 31 mins       █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                1 hr 48 mins        ██████████████████░░░░░░░   71.74 % 
-tlg-agent                42 mins             ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+url-magic                1 hr 10 mins        ███████████████████░░░░░░   75.36 % 
+tlg-agent                23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (61.27%)
+⏱ AI Coding Time: 1 hr 30 mins (96.88%)
 
-✍️ 0 lines written by AI, 16 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 38 AI Prompts
+🧠 2 AI Sessions, 25 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 160 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 171 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -172,5 +171,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 19:00:16 UTC
+ Last Updated on 30/08/2026 22:17:52 UTC
 <!--END_SECTION:waka-->
