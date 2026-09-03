@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,36 +118,45 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Other                    2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.10 % 
+Python                   1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Terraform                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Antigravity IDE          3 mins              █████████████████████████   100.00 % 
+Antigravity IDE          3 hrs 17 mins       ███████████████░░░░░░░░░░   59.07 % 
+Chrome                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.49 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🐱‍💻 Projects: 
-url-magic                3 mins              █████████████████████████   100.00 % 
+url-magic                4 hrs 55 mins       ██████████████████████░░░   88.30 % 
+Leetcode                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 34 mins (46.33%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 109 lines written by AI, 74 lines written by hand (59.56% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 66 AI Prompts
+
+Gemini                   112 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 123 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.56% of written lines came from AI
+📝 Concise Prompter — average 273 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 44.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 17:46:01 UTC
+ Last Updated on 03/09/2026 20:22:47 UTC
 <!--END_SECTION:waka-->
