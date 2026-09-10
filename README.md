@@ -166,11 +166,11 @@ Gemini                   112 lines           ██████░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
+Python                   10 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
 TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
 HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -180,5 +180,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 22:09:52 UTC
+ Last Updated on 10/09/2026 02:17:24 UTC
 <!--END_SECTION:waka-->
