@@ -73,15 +73,15 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 51.4 kB Used in GitHub's Storage 
+> 📦 51.5 kB Used in GitHub's Storage 
  > 
 > 🏆 497 Contributions in the Year 2026
  > 
@@ -118,49 +118,49 @@ Sunday                   401 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               6 hrs 29 mins       ████████████████░░░░░░░░░   65.66 % 
-Python                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               6 hrs 29 mins       ██████████████░░░░░░░░░░░   56.51 % 
+Python                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       ███████████████████████░░   93.28 % 
-Chrome                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Antigravity IDE          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+VS Code                  10 hrs 49 mins      ████████████████████████░   94.22 % 
+Chrome                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Antigravity IDE          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🐱‍💻 Projects: 
-url-magic                8 hrs 3 mins        ████████████████████░░░░░   81.40 % 
-Coding practices         1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Leetcode                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-rate-pulse               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-api                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+url-magic                9 hrs 29 mins       █████████████████████░░░░   82.57 % 
+Coding practices         1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Leetcode                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+api                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+rate-pulse               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Windows                  9 hrs 51 mins       █████████████████████████   99.68 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Windows                  10 hrs 4 mins       ██████████████████████░░░   87.67 % 
+Linux                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (24.74%)
+⏱ AI Coding Time: 3 hrs 39 mins (31.82%)
 
-✍️ 1,081 lines written by AI, 1,615 lines written by hand (40.1% AI-written)
+✍️ 1,081 lines written by AI, 1,635 lines written by hand (39.8% AI-written)
 
-🔤 1,141,585 Input Tokens, 9,159 Output Tokens
+🔤 1,513,046 Input Tokens, 14,486 Output Tokens
 
-💵 $3.56 Estimated AI Cost This Week
+💵 $4.76 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 52 AI Prompts
+🧠 6 AI Sessions, 71 AI Prompts
 
 Github-Copilot           1,081 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.1% of written lines came from AI
-📝 Concise Prompter — average 411 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 70.59% of changed lines were hand-edited
+⚖️ Balanced with AI — 39.8% of written lines came from AI
+📝 Concise Prompter — average 402 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 70.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -180,5 +180,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 16:06:58 UTC
+ Last Updated on 14/09/2026 21:15:42 UTC
 <!--END_SECTION:waka-->
