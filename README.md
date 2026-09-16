@@ -118,49 +118,48 @@ Sunday                   401 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               6 hrs 29 mins       ██████████████░░░░░░░░░░░   56.51 % 
-Python                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               5 hrs 43 mins       ██████████████░░░░░░░░░░░   55.24 % 
+Python                   2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 49 mins      ████████████████████████░   94.22 % 
-Chrome                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Antigravity IDE          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+VS Code                  10 hrs 5 mins       ████████████████████████░   97.55 % 
+Antigravity IDE          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-url-magic                9 hrs 29 mins       █████████████████████░░░░   82.57 % 
-Coding practices         1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Leetcode                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-api                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-rate-pulse               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+url-magic                9 hrs 49 mins       ████████████████████████░   94.89 % 
+api                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+rate-pulse               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+tlg-agent                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+components               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  10 hrs 4 mins       ██████████████████████░░░   87.67 % 
-Linux                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Windows                  6 hrs 4 mins        ███████████████░░░░░░░░░░   58.64 % 
+Linux                    4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (31.82%)
+⏱ AI Coding Time: 5 hrs 41 mins (54.97%)
 
-✍️ 1,081 lines written by AI, 1,635 lines written by hand (39.8% AI-written)
+✍️ 1,117 lines written by AI, 923 lines written by hand (54.75% AI-written)
 
-🔤 1,513,046 Input Tokens, 14,486 Output Tokens
+🔤 2,532,489 Input Tokens, 18,626 Output Tokens
 
-💵 $4.76 Estimated AI Cost This Week
+💵 $7.88 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 71 AI Prompts
+🧠 6 AI Sessions, 104 AI Prompts
 
-Github-Copilot           1,081 lines         █████████████████████████   100.00 % 
+Github-Copilot           1,117 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.8% of written lines came from AI
-📝 Concise Prompter — average 402 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 70.74% of changed lines were hand-edited
+⚖️ Balanced with AI — 54.75% of written lines came from AI
+📄 Detailed Prompter — average 528 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 54.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -180,5 +179,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 19:16:43 UTC
+ Last Updated on 16/09/2026 22:32:42 UTC
 <!--END_SECTION:waka-->
