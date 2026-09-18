@@ -94,21 +94,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-🌆 Daytime                2019 commits        █████████████░░░░░░░░░░░░   50.32 % 
-🌃 Evening                1230 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌙 Night                  266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+🌞 Morning                497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌆 Daytime                2017 commits        █████████████░░░░░░░░░░░░   50.35 % 
+🌃 Evening                1225 commits        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+🌙 Night                  267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Wednesday                748 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Thursday                 692 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Saturday                 651 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Sunday                   401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Monday                   451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tuesday                  675 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Wednesday                748 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Thursday                 689 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Saturday                 652 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Sunday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 ```
 
 
@@ -118,48 +118,49 @@ Sunday                   401 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.81 % 
-Python                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-JSON                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Makefile                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.32 % 
+Python                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+JSON                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Makefile                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 49 mins       ████████████████████████░   97.33 % 
-Antigravity IDE          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+VS Code                  8 hrs 56 mins       ███████████████████████░░   92.06 % 
+Antigravity IDE          46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🐱‍💻 Projects: 
-url-magic                8 hrs 34 mins       ████████████████████████░   94.54 % 
-api                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-tlg-agent                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-rate-pulse               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-participation-marking-app0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+url-magic                9 hrs 5 mins        ███████████████████████░░   93.56 % 
+tlg-agent                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+api                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+rate-pulse               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+participation-marking-app0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    6 hrs 25 mins       ██████████████████░░░░░░░   70.78 % 
-Windows                  2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Linux                    7 hrs 3 mins        ██████████████████░░░░░░░   72.67 % 
+Windows                  2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (59.24%)
+⏱ AI Coding Time: 5 hrs 50 mins (60.17%)
 
-✍️ 582 lines written by AI, 583 lines written by hand (49.96% AI-written)
+✍️ 598 lines written by AI, 618 lines written by hand (49.18% AI-written)
 
 🔤 3,329,809 Input Tokens, 20,770 Output Tokens
 
 💵 $10.30 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 105 AI Prompts
+🧠 10 AI Sessions, 110 AI Prompts
 
-Github-Copilot           593 lines           █████████████████████████   100.00 % 
+Github-Copilot           593 lines           ████████████████████████░   97.37 % 
+Gemini                   16 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.96% of written lines came from AI
-📄 Detailed Prompter — average 534 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 57.31% of changed lines were hand-edited
+⚖️ Balanced with AI — 49.18% of written lines came from AI
+📄 Detailed Prompter — average 515 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 57.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +180,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 17:37:02 UTC
+ Last Updated on 18/09/2026 20:14:02 UTC
 <!--END_SECTION:waka-->
