@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -118,48 +118,47 @@ Sunday                   401 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
-TypeScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Makefile                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Python                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
+TypeScript               2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+CSS                      1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Makefile                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 48 mins       ██████████████████████░░░   86.40 % 
-Antigravity IDE          1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+VS Code                  6 hrs 12 mins       ██████████████░░░░░░░░░░░   54.70 % 
+Antigravity IDE          5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
 
 🐱‍💻 Projects: 
-url-magic                7 hrs 5 mins        ████████████████████░░░░░   78.35 % 
-tlg-agent                1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-api                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-workflows                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+url-magic                7 hrs 54 mins       █████████████████░░░░░░░░   69.61 % 
+tlg-agent                3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+workflows                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    7 hrs 3 mins        ████████████████████░░░░░   78.10 % 
-Windows                  1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Linux                    8 hrs 1 min         ██████████████████░░░░░░░   70.73 % 
+Windows                  3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 53 mins (65.16%)
+⏱ AI Coding Time: 7 hrs 29 mins (66.02%)
 
-✍️ 498 lines written by AI, 596 lines written by hand (45.52% AI-written)
+✍️ 987 lines written by AI, 762 lines written by hand (56.43% AI-written)
 
-🔤 2,518,196 Input Tokens, 14,611 Output Tokens
+🔤 2,146,735 Input Tokens, 9,284 Output Tokens
 
-💵 $7.77 Estimated AI Cost This Week
+💵 $6.58 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 93 AI Prompts
+🧠 10 AI Sessions, 107 AI Prompts
 
-Github-Copilot           449 lines           ██████████████████████░░░   88.21 % 
-Gemini                   60 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Gemini                   603 lines           ██████████████░░░░░░░░░░░   57.32 % 
+Github-Copilot           449 lines           ███████████░░░░░░░░░░░░░░   42.68 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.52% of written lines came from AI
-📝 Concise Prompter — average 447 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 59.92% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.43% of written lines came from AI
+📝 Concise Prompter — average 365 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 47.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -179,5 +178,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 16:10:01 UTC
+ Last Updated on 21/09/2026 21:29:57 UTC
 <!--END_SECTION:waka-->
