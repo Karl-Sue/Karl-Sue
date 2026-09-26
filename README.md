@@ -94,21 +94,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌆 Daytime                2030 commits        █████████████░░░░░░░░░░░░   50.15 % 
-🌃 Evening                1250 commits        ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌙 Night                  271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+🌞 Morning                497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+🌆 Daytime                2028 commits        █████████████░░░░░░░░░░░░   50.19 % 
+🌃 Evening                1245 commits        ████████░░░░░░░░░░░░░░░░░   30.81 % 
+🌙 Night                  271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Wednesday                748 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Thursday                 692 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Saturday                 656 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Sunday                   401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Tuesday                  698 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Wednesday                748 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Thursday                 692 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Friday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Saturday                 656 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Sunday                   401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 ```
 
 
@@ -166,9 +166,9 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```text
 Python                   10 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
 TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -178,5 +178,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 14:01:04 UTC
+ Last Updated on 26/09/2026 17:40:05 UTC
 <!--END_SECTION:waka-->
