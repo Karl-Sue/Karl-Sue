@@ -157,11 +157,11 @@ Sonnet                   93 lines            ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -171,5 +171,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 03:19:00 UTC
+ Last Updated on 02/10/2026 10:13:39 UTC
 <!--END_SECTION:waka-->
