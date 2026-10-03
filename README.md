@@ -118,40 +118,39 @@ Sunday                   401 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               45 mins             █████████████░░░░░░░░░░░░   51.87 % 
-CSS                      29 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Makefile                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+TypeScript               19 mins             ███████████████░░░░░░░░░░   60.92 % 
+Makefile                 12 mins             ██████████░░░░░░░░░░░░░░░   39.08 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 26 mins        █████████████████████████   100.00 % 
+Antigravity IDE          31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                1 hr 26 mins        █████████████████████████   100.00 % 
+url-magic                31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (77.84%)
+⏱ AI Coding Time: 19 mins (60.92%)
 
-✍️ 70 lines written by AI, 1 lines written by hand (98.59% AI-written)
+✍️ 28 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 971,815 Input Tokens, 35,884 Output Tokens
+🔤 335,919 Input Tokens, 8,649 Output Tokens
 
-💵 $2.95 Estimated AI Cost This Week
+💵 $1.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Sonnet                   93 lines            █████████████████████████   100.00 % 
+Sonnet                   28 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.59% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 14.68% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -171,5 +170,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 17:44:37 UTC
+ Last Updated on 03/10/2026 20:25:05 UTC
 <!--END_SECTION:waka-->
