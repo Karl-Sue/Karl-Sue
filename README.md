@@ -159,11 +159,11 @@ Sonnet                   252 lines           ███████░░░░�
 🚀 High AI Trust — 22.42% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
+Python                   10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
 HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
@@ -176,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 00:06:41 UTC
+ Last Updated on 09/10/2026 08:15:52 UTC
 <!--END_SECTION:waka-->
