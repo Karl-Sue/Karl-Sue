@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,9 +118,9 @@ Sunday                   401 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       ██████████████░░░░░░░░░░░   57.73 % 
-JSON                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+TypeScript               3 hrs 36 mins       ██████████████░░░░░░░░░░░   57.81 % 
+JSON                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
@@ -128,9 +128,8 @@ Python                   13 mins             █░░░░░░░░░░�
 Antigravity IDE          6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                5 hrs 53 mins       ████████████████████████░   94.40 % 
+url-magic                5 hrs 53 mins       ████████████████████████░   94.50 % 
 tlg-web-app              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
 Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
@@ -143,14 +142,14 @@ Windows                  6 hrs 14 mins       ███████████�
 
 ✍️ 788 lines written by AI, 119 lines written by hand (86.88% AI-written)
 
-🔤 11,055,396 Input Tokens, 264,204 Output Tokens
+🔤 11,031,550 Input Tokens, 262,175 Output Tokens
 
-💵 $22.57 Estimated AI Cost This Week
+💵 $22.52 Estimated AI Cost This Week
 
 🧠 4 AI Sessions, 70 AI Prompts
 
-Gemini                   606 lines           ██████████████████░░░░░░░   70.63 % 
-Sonnet                   252 lines           ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Gemini                   606 lines           █████████████████░░░░░░░░   68.40 % 
+Sonnet                   280 lines           ████████░░░░░░░░░░░░░░░░░   31.60 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 86.88% of written lines came from AI
@@ -176,5 +175,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 00:38:23 UTC
+ Last Updated on 11/10/2026 08:06:10 UTC
 <!--END_SECTION:waka-->
