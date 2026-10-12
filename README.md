@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-69%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -118,47 +118,47 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
-Other                    2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-CSS                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
+CSS                      3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Other                    2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 3 mins        █████████████████████░░░░   83.50 % 
-Bash                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Antigravity IDE          12 hrs 46 mins      ██████████████████████░░░   87.66 % 
+Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 🐱‍💻 Projects: 
-url-magic                8 hrs 42 mins       ████████████████████░░░░░   80.34 % 
-Terminal                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-tlg-web-app              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+url-magic                12 hrs 45 mins      ██████████████████████░░░   87.63 % 
+Terminal                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+challenge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  9 hrs 3 mins        █████████████████████░░░░   83.50 % 
-WSL                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Windows                  12 hrs 46 mins      ██████████████████████░░░   87.66 % 
+WSL                      1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (68.58%)
+⏱ AI Coding Time: 10 hrs 5 mins (69.31%)
 
-✍️ 1,327 lines written by AI, 121 lines written by hand (91.64% AI-written)
+✍️ 1,697 lines written by AI, 134 lines written by hand (92.68% AI-written)
 
-🔤 13,874,023 Input Tokens, 406,270 Output Tokens
+🔤 17,664,962 Input Tokens, 544,926 Output Tokens
 
-💵 $28.94 Estimated AI Cost This Week
+💵 $37.13 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 90 AI Prompts
+🧠 6 AI Sessions, 124 AI Prompts
 
-Gemini                   1,158 lines         ████████████████████░░░░░   80.53 % 
-Sonnet                   280 lines           █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Gemini                   1,569 lines         █████████████████████░░░░   84.86 % 
+Sonnet                   280 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.64% of written lines came from AI
-📝 Concise Prompter — average 288 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 15.26% of changed lines were hand-edited
+🤖 AI-Driven — 92.68% of written lines came from AI
+📝 Concise Prompter — average 237 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 13.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -178,5 +178,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 08:22:47 UTC
+ Last Updated on 12/10/2026 19:34:52 UTC
 <!--END_SECTION:waka-->
