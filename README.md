@@ -73,15 +73,15 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 55.6 kB Used in GitHub's Storage 
+> 📦 56.6 kB Used in GitHub's Storage 
  > 
 > 🏆 566 Contributions in the Year 2026
  > 
@@ -118,47 +118,44 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Terraform                3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-TypeScript               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Terraform                3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Python                   3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 35 mins      █████████████████████████   99.94 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Antigravity IDE          10 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-url-magic                12 hrs 25 mins      █████████████████████████   98.56 % 
-tlg-web-app              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-challenge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+url-magic                9 hrs 46 mins       ████████████████████████░   96.44 % 
+testing                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+tlg-web-app              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  12 hrs 35 mins      █████████████████████████   99.94 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 5 mins (72.11%)
+⏱ AI Coding Time: 7 hrs 38 mins (75.4%)
 
-✍️ 1,045 lines written by AI, 103 lines written by hand (91.03% AI-written)
+✍️ 689 lines written by AI, 90 lines written by hand (88.45% AI-written)
 
-🔤 13,972,589 Input Tokens, 393,444 Output Tokens
+🔤 11,693,658 Input Tokens, 299,470 Output Tokens
 
-💵 $29.69 Estimated AI Cost This Week
+💵 $26.18 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 108 AI Prompts
+🧠 6 AI Sessions, 94 AI Prompts
 
-Gemini                   1,116 lines         █████████████████████████   100.00 % 
+Gemini                   852 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.03% of written lines came from AI
-📝 Concise Prompter — average 346 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 14.81% of changed lines were hand-edited
+🤖 AI-Driven — 88.45% of written lines came from AI
+📝 Concise Prompter — average 425 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 18.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -178,5 +175,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 16:46:16 UTC
+ Last Updated on 19/10/2026 21:55:41 UTC
 <!--END_SECTION:waka-->
