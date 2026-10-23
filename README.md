@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -118,48 +118,48 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
-Terraform                49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Python                   2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
+Terraform                49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 4 mins        ███████████████████████░░   92.27 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Antigravity IDE          5 hrs 36 mins       ███████████████████████░░   92.96 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🐱‍💻 Projects: 
-url-magic                2 hrs 50 mins       █████████████░░░░░░░░░░░░   51.79 % 
-tlg-agent                1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   34.66 % 
-personal-profile         25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-testing                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Karl-Sue.github.io       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+url-magic                2 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.10 % 
+tlg-agent                2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+personal-profile         26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+testing                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Karl-Sue.github.io       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 19 mins (78.47%)
+⏱ AI Coding Time: 4 hrs 46 mins (79.11%)
 
-✍️ 2,347 lines written by AI, 29 lines written by hand (98.78% AI-written)
+✍️ 2,528 lines written by AI, 29 lines written by hand (98.87% AI-written)
 
-🔤 3,900,392 Input Tokens, 254,380 Output Tokens
+🔤 4,372,199 Input Tokens, 339,614 Output Tokens
 
-💵 $11.52 Estimated AI Cost This Week
+💵 $13.49 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 53 AI Prompts
+🧠 7 AI Sessions, 56 AI Prompts
 
-Gemini                   2,481 lines         █████████████████████████   100.00 % 
+Gemini                   2,758 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.78% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
+🤖 AI-Driven — 98.87% of written lines came from AI
+📝 Concise Prompter — average 313 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.76% of changed lines were hand-edited
+🚀 High AI Trust — 16.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 14:36:39 UTC
+ Last Updated on 23/10/2026 19:42:56 UTC
 <!--END_SECTION:waka-->
