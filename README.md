@@ -118,48 +118,48 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-Terraform                49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Python                   2 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.97 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 36 mins       ███████████████████████░░   92.96 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Antigravity IDE          4 hrs 35 mins       ███████████████████████░░   91.51 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🐱‍💻 Projects: 
-url-magic                2 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.10 % 
-tlg-agent                2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
-personal-profile         26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-testing                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Karl-Sue.github.io       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+tlg-agent                2 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.01 % 
+url-magic                1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   36.27 % 
+personal-profile         26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+testing                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Karl-Sue.github.io       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 46 mins (79.11%)
+⏱ AI Coding Time: 4 hrs 9 mins (82.9%)
 
-✍️ 2,528 lines written by AI, 29 lines written by hand (98.87% AI-written)
+✍️ 2,509 lines written by AI, 8 lines written by hand (99.68% AI-written)
 
-🔤 4,372,199 Input Tokens, 339,614 Output Tokens
+🔤 3,902,994 Input Tokens, 311,749 Output Tokens
 
-💵 $13.49 Estimated AI Cost This Week
+💵 $12.60 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 56 AI Prompts
+🧠 6 AI Sessions, 48 AI Prompts
 
-Gemini                   2,758 lines         █████████████████████████   100.00 % 
+Gemini                   2,739 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
-📝 Concise Prompter — average 313 characters per prompt
+🤖 AI-Driven — 99.68% of written lines came from AI
+📝 Concise Prompter — average 279 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 16.56% of changed lines were hand-edited
+🚀 High AI Trust — 15.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 17:09:46 UTC
+ Last Updated on 24/10/2026 20:03:14 UTC
 <!--END_SECTION:waka-->
