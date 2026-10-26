@@ -77,7 +77,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:28:52 UTC
+ Last Updated on 26/10/2026 09:34:17 UTC
 <!--END_SECTION:waka-->
