@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,48 +118,48 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.95 % 
-Python                   2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
+Python                   2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 57 mins       ███████████████████████░░   93.34 % 
-Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Antigravity IDE          6 hrs 38 mins       ███████████████████████░░   93.98 % 
+Copilot CLI              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🐱‍💻 Projects: 
-Karl-Sue.github.io       2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
-tlg-agent                2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
-personal-profile         26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-url-magic                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-temp_folder              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Karl-Sue.github.io       2 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.17 % 
+tlg-agent                2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
+temp_folder              51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+personal-profile         26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+url-magic                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 38 mins (88.39%)
+⏱ AI Coding Time: 5 hrs 50 mins (82.62%)
 
-✍️ 2,899 lines written by AI, 10 lines written by hand (99.66% AI-written)
+✍️ 2,988 lines written by AI, 344 lines written by hand (89.68% AI-written)
 
-🔤 3,542,558 Input Tokens, 503,476 Output Tokens
+🔤 3,653,185 Input Tokens, 511,694 Output Tokens
 
-💵 $14.18 Estimated AI Cost This Week
+💵 $14.50 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 48 AI Prompts
+🧠 8 AI Sessions, 51 AI Prompts
 
-Gemini                   3,368 lines         █████████████████████████   100.00 % 
+Gemini                   3,457 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.66% of written lines came from AI
-📝 Concise Prompter — average 169 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.6% of changed lines were hand-edited
+🤖 AI-Driven — 89.68% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 20.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +179,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 15:41:40 UTC
+ Last Updated on 27/10/2026 20:23:27 UTC
 <!--END_SECTION:waka-->
