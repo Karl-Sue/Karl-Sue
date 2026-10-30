@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,47 +118,45 @@ Sunday                   417 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   10 hrs 31 mins      ███████████████░░░░░░░░░░   59.74 % 
-TypeScript               4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-CSS                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   11 hrs 31 mins      ███████████████░░░░░░░░░░   60.02 % 
+TypeScript               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 48 mins      ████████████████████████░   95.39 % 
-Antigravity Desktop      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Antigravity IDE          17 hrs 23 mins      ███████████████████████░░   90.49 % 
+Antigravity Desktop      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              10 hrs 28 mins      ███████████████░░░░░░░░░░   59.50 % 
-Karl-Sue.github.io       5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
-temp_folder              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-tlg-agent                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-personal-profile         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+tlg-web-app              12 hrs 37 mins      ████████████████░░░░░░░░░   65.69 % 
+Karl-Sue.github.io       5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+temp_folder              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 💻 Operating System: 
-Windows                  17 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 17 mins (69.77%)
+⏱ AI Coding Time: 13 hrs 33 mins (70.57%)
 
-✍️ 678 lines written by AI, 4,113 lines written by hand (14.15% AI-written)
+✍️ 497 lines written by AI, 4,120 lines written by hand (10.76% AI-written)
 
-🔤 4,675,818 Input Tokens, 415,595 Output Tokens
+🔤 3,928,326 Input Tokens, 329,421 Output Tokens
 
-💵 $15.45 Estimated AI Cost This Week
+💵 $12.87 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 205 AI Prompts
+🧠 9 AI Sessions, 223 AI Prompts
 
-Gemini                   1,215 lines         █████████████████████████   100.00 % 
+Gemini                   938 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.15% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 92.56% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 10.76% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🔍 Hands-On Reviewer — 94.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -178,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 14:46:02 UTC
+ Last Updated on 30/10/2026 20:19:55 UTC
 <!--END_SECTION:waka-->
