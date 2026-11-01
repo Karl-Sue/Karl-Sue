@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,45 +118,45 @@ Sunday                   425 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   13 hrs 15 mins      ████████████████░░░░░░░░░   63.31 % 
-TypeScript               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python                   14 hrs 27 mins      ████████████████░░░░░░░░░   63.49 % 
+TypeScript               6 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+CSS                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 53 mins      ███████████████████████░░   90.26 % 
-Antigravity Desktop      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Antigravity IDE          19 hrs 54 mins      ██████████████████████░░░   87.50 % 
+Antigravity Desktop      2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              14 hrs 20 mins      █████████████████░░░░░░░░   68.52 % 
-Karl-Sue.github.io       5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-temp_folder              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+tlg-web-app              16 hrs 19 mins      ██████████████████░░░░░░░   71.71 % 
+Karl-Sue.github.io       5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+temp_folder              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Windows                  20 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 48 mins (70.72%)
+⏱ AI Coding Time: 16 hrs 26 mins (72.23%)
 
-✍️ 497 lines written by AI, 4,243 lines written by hand (10.49% AI-written)
+✍️ 454 lines written by AI, 4,268 lines written by hand (9.61% AI-written)
 
-🔤 3,928,326 Input Tokens, 329,421 Output Tokens
+🔤 3,841,054 Input Tokens, 305,046 Output Tokens
 
-💵 $12.87 Estimated AI Cost This Week
+💵 $12.40 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 261 AI Prompts
+🧠 10 AI Sessions, 287 AI Prompts
 
-Gemini                   938 lines           █████████████████████████   100.00 % 
+Gemini                   895 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.49% of written lines came from AI
-📝 Concise Prompter — average 397 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🔍 Hands-On Reviewer — 94.35% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.61% of written lines came from AI
+📝 Concise Prompter — average 417 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
+🔍 Hands-On Reviewer — 94.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -176,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 17:29:39 UTC
+ Last Updated on 01/11/2026 21:33:49 UTC
 <!--END_SECTION:waka-->
