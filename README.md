@@ -94,21 +94,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-🌆 Daytime                2121 commits        ████████████░░░░░░░░░░░░░   49.06 % 
-🌃 Evening                1340 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌙 Night                  321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+🌞 Morning                543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+🌆 Daytime                2121 commits        ████████████░░░░░░░░░░░░░   48.96 % 
+🌃 Evening                1345 commits        ████████░░░░░░░░░░░░░░░░░   31.05 % 
+🌙 Night                  323 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  767 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Wednesday                786 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Thursday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Saturday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Sunday                   435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Monday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Tuesday                  771 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Wednesday                786 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Thursday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Saturday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Sunday                   437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 ```
 
 
@@ -118,36 +118,36 @@ Sunday                   435 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   7 hrs 11 mins       ████████████████░░░░░░░░░   63.35 % 
-TypeScript               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-TOML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   5 hrs 50 mins       ████████████████░░░░░░░░░   63.48 % 
+TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+TOML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 42 mins       █████████████████░░░░░░░░   68.03 % 
-Antigravity Desktop      3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Antigravity IDE          6 hrs 35 mins       ██████████████████░░░░░░░   71.63 % 
+Antigravity Desktop      2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              11 hrs 6 mins       ████████████████████████░   97.94 % 
-url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+tlg-web-app              8 hrs 57 mins       ████████████████████████░   97.46 % 
+url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Windows                  11 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 15 mins (81.61%)
+⏱ AI Coding Time: 7 hrs 31 mins (81.75%)
 
-✍️ 0 lines written by AI, 325 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 318 lines written by hand (0.0% AI-written)
 
 🔤 74,641 Input Tokens, 550 Output Tokens
 
 💵 $0.16 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 172 AI Prompts
+🧠 8 AI Sessions, 150 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -175,5 +175,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 13:33:15 UTC
+ Last Updated on 06/11/2026 20:14:05 UTC
 <!--END_SECTION:waka-->
