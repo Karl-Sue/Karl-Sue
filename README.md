@@ -118,43 +118,43 @@ Sunday                   439 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       ████████████████░░░░░░░░░   63.48 % 
-TypeScript               1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-TOML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   4 hrs 6 mins        ██████████████░░░░░░░░░░░   55.04 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+TOML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 35 mins       ██████████████████░░░░░░░   71.63 % 
-Antigravity Desktop      2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+Antigravity IDE          5 hrs 4 mins        █████████████████░░░░░░░░   67.91 % 
+Antigravity Desktop      2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              8 hrs 57 mins       ████████████████████████░   97.46 % 
-url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+tlg-web-app              7 hrs 14 mins       ████████████████████████░   96.87 % 
+url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 31 mins (81.75%)
+⏱ AI Coding Time: 6 hrs 16 mins (83.92%)
 
-✍️ 0 lines written by AI, 318 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 195 lines written by hand (0.0% AI-written)
 
 🔤 74,641 Input Tokens, 550 Output Tokens
 
 💵 $0.16 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 150 AI Prompts
+🧠 7 AI Sessions, 112 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 313 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+📝 Concise Prompter — average 346 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -175,5 +175,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 16:02:14 UTC
+ Last Updated on 07/11/2026 19:59:41 UTC
 <!--END_SECTION:waka-->
