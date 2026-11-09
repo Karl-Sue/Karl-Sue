@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -94,21 +94,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-🌆 Daytime                2121 commits        ████████████░░░░░░░░░░░░░   48.76 % 
-🌃 Evening                1355 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night                  327 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+🌞 Morning                551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌆 Daytime                2121 commits        ████████████░░░░░░░░░░░░░   48.49 % 
+🌃 Evening                1369 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+🌙 Night                  333 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Tuesday                  779 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Wednesday                786 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Thursday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Friday                   417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Saturday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Sunday                   441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Monday                   512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Tuesday                  789 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Wednesday                786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Thursday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Saturday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Sunday                   445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 
 
@@ -118,42 +118,43 @@ Sunday                   441 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       ██████████████░░░░░░░░░░░   55.39 % 
-TOML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Python                   3 hrs 52 mins       █████████████████░░░░░░░░   66.81 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+TOML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 36 mins       ██████████████████░░░░░░░   71.30 % 
-Antigravity Desktop      1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Antigravity IDE          3 hrs 49 mins       █████████████████░░░░░░░░   66.19 % 
+Antigravity Desktop      1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Antigravity              44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              6 hrs 13 mins       ████████████████████████░   96.38 % 
-url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+tlg-web-app              5 hrs 33 mins       ████████████████████████░   95.96 % 
+url-magic                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
-Windows                  6 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (83.84%)
+⏱ AI Coding Time: 4 hrs 43 mins (81.52%)
 
-✍️ 0 lines written by AI, 206 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 127 lines written by hand (0.0% AI-written)
 
 🔤 74,641 Input Tokens, 550 Output Tokens
 
 💵 $0.16 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 105 AI Prompts
+🧠 7 AI Sessions, 102 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
+📝 Concise Prompter — average 303 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -175,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2026 08:56:50 UTC
+ Last Updated on 09/11/2026 20:22:37 UTC
 <!--END_SECTION:waka-->
