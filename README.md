@@ -118,28 +118,28 @@ Sunday                   461 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
-Markdown                 2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python                   2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
+Markdown                 2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+TOML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.40 % 
-Antigravity              3 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.14 % 
-Antigravity Desktop      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Antigravity IDE          3 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.94 % 
+Antigravity              3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
+Antigravity Desktop      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              6 hrs 39 mins       █████████████████████████   100.00 % 
+tlg-web-app              6 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (90.68%)
+⏱ AI Coding Time: 6 hrs 2 mins (87.96%)
 
 ✍️ 0 lines written by AI, 182 lines written by hand (0.0% AI-written)
 
@@ -173,5 +173,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2026 19:02:42 UTC
+ Last Updated on 14/11/2026 00:37:36 UTC
 <!--END_SECTION:waka-->
