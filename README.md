@@ -73,9 +73,9 @@
 ### ⏱️ WakaTime Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -118,41 +118,44 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Perth
 
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
-Markdown                 2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-TOML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+Python                   1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.94 % 
-Antigravity              3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
-Antigravity Desktop      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Antigravity IDE          3 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.13 % 
+Antigravity              3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.84 % 
+Antigravity Desktop      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🐱‍💻 Projects: 
-tlg-web-app              6 hrs 51 mins       █████████████████████████   100.00 % 
+tlg-web-app              5 hrs 53 mins       ████████████████████░░░░░   80.34 % 
+url-magic                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 
 💻 Operating System: 
-Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (87.96%)
+⏱ AI Coding Time: 6 hrs 31 mins (88.98%)
 
-✍️ 0 lines written by AI, 182 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 150 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 2,621 Input Tokens, 138 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 111 AI Prompts
+🧠 5 AI Sessions, 114 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 306 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📝 Concise Prompter — average 334 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -173,5 +176,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Karl-Sue/Karl-Sue/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 16:46:37 UTC
+ Last Updated on 15/11/2026 22:22:20 UTC
 <!--END_SECTION:waka-->
